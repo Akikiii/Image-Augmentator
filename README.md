@@ -8,3 +8,4 @@ then install the following:
 
 **pip install Augmentor**
 **pip install opencv-python**
+**pip install albumentations**
